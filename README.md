@@ -12,7 +12,7 @@ This project reflects how I would work on an analytics problem in a professional
 
 ## 🧰 Tools & Technologies Used:
 -Python (Pandas, NumPy, Matplotlib, Seaborn)<br>
--SQL (MySQL / MS SQL Server)<br>
+-SQL (MySQL / My SQL Server)<br>
 -Power BI<br>
 -Jupyter Notebook<br>
 
